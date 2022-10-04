@@ -53,11 +53,11 @@
     <truth.version>0.29</truth.version>
 
     <java.version>1.8</java.version>
-    <log4j.version>2.11.1</log4j.version>
-    <jetty.version>9.4.14.v20181114</jetty.version>
-    <jackson.version>2.10.0.pr1</jackson.version>
-    <netty.version>4.1.25.Final</netty.version>
-    <public.project.version>4.37-SNAPSHOT</public.project.version>
+    <log4j.version>2.13.2</log4j.version>
+    <jetty.version>9.4.41.v20210516</jetty.version>
+    <jackson.version>2.13.4</jackson.version>
+    <netty.version>4.1.77.Final</netty.version>
+    <public.project.version>2022-10.1</public.project.version>
   </properties>
 
   <build>
@@ -106,7 +106,7 @@
       <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
-        <version>26.0-jre</version>
+        <version>30.0-jre</version>
       </dependency>
       <dependency>
         <groupId>joda-time</groupId>
