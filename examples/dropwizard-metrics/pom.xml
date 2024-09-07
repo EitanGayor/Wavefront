@@ -17,17 +17,17 @@
 		<dependency>
 			<groupId>io.dropwizard.metrics</groupId>
 			<artifactId>metrics-core</artifactId>
-			<version>4.0.2</version>
+			<version>4.2.26</version>
 		</dependency>
 		<dependency>
 			<groupId>io.dropwizard.metrics</groupId>
 			<artifactId>metrics-jvm</artifactId>
-			<version>4.0.2</version>
+			<version>4.2.26</version>
 		</dependency>
 		<dependency>
 			<groupId>com.wavefront</groupId>
 			<artifactId>dropwizard-metrics</artifactId>
-			<version>4.31</version>
+			<version>4.36</version>
 		</dependency>
 	</dependencies>
 
