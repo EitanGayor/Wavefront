@@ -67,7 +67,7 @@
     <dependency>
       <groupId>com.squareup.okhttp3</groupId>
       <artifactId>okhttp</artifactId>
-      <version>3.8.1</version>
+      <version>3.14.9</version>
     </dependency>
     <dependency>
       <groupId>org.apache.avro</groupId>
@@ -95,22 +95,22 @@
       <!-- This is for pickle/unpickle support -->
       <groupId>net.razorvine</groupId>
       <artifactId>pyrolite</artifactId>
-      <version>4.10</version>
+      <version>4.30</version>
     </dependency>
     <dependency>
       <groupId>com.tdunning</groupId>
       <artifactId>t-digest</artifactId>
-      <version>3.2</version>
+      <version>3.3</version>
     </dependency>
     <dependency>
       <groupId>io.dropwizard.metrics</groupId>
       <artifactId>metrics-core</artifactId>
-      <version>3.1.2</version>
+      <version>3.2.6</version>
     </dependency>
     <dependency>
       <groupId>io.dropwizard.metrics5</groupId>
       <artifactId>metrics-core</artifactId>
-      <version>5.0.0-rc2</version>
+      <version>5.0.0</version>
     </dependency>
   </dependencies>
 
